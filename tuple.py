@@ -8,4 +8,6 @@ t = ("ali", "veli" , 1 ,2 ,3 , [1,2,3,4])
 
 #type(t)
 
-t[1]
+t[1] #index ile ulaşım var
+
+
